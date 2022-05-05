@@ -1,15 +1,14 @@
 
-
 /*
- * Class: CMSC203Â CRN 36406
-Â Program: Assignment 6
+ * Class: CMSC203 CRN 36406
+ Program: Assignment 6
  Instructor: Farnaz Eivazi
-Â Summary of Description: Beverage that keeps track of number of fruits and whether theres protein powder
-Â Due Date: 5/4/2022
-Â Integrity Pledge: I pledge that I have completed the programming assignment independently.
-Â Â  I have not copied the code from a student or any source.
-Â Â  I have not given my code to any student.
-Â Â  Print your Name here: Kian Charkhabi
+ Summary of Description: Beverage that keeps track of number of fruits and whether theres protein powder
+ Due Date: 5/4/2022
+ Integrity Pledge: I pledge that I have completed the programming assignment independently.
+   I have not copied the code from a student or any source.
+   I have not given my code to any student.
+   Print your Name here: Kian Charkhabi
  */
 public class Smoothie extends Beverage {
 	private int numOfFruits;
